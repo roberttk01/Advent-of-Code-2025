@@ -116,6 +116,6 @@ print(count)
 
 ## Links
 
-- [AoC Day 01](https://adventofcode.com/2025/day/1)
-- [My Solution on GitHub](https://github.com/roberttk01/Advent-of-Code-2025/tree/master/Day%201)
-- [Reddit r/adventofcode](https://www.reddit.com/r/adventofcode/) (search for "Day 1" megathread)
+- [AoC Day 1](https://adventofcode.com/2025/day/1)
+- [Reddit Megathread](https://www.reddit.com/r/adventofcode/search/?q=Day+1+Megathread)
+- [GitHub Solution](https://github.com/roberttk01/Advent-of-Code-2025/tree/main/Day%201)

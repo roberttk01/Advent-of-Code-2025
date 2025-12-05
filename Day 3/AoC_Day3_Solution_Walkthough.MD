@@ -129,6 +129,6 @@ if __name__ == '__main__':
 
 ## Links
 
-- [AoC Day 03](https://adventofcode.com/2025/day/3)
-- [My Solution on GitHub](https://github.com/roberttk01/Advent-of-Code-2025/tree/master/Day%203)
-- [Reddit r/adventofcode](https://www.reddit.com/r/adventofcode/) (search for "Day 3" megathread)
+- [AoC Day 3](https://adventofcode.com/2025/day/3)
+- [Reddit Megathread](https://www.reddit.com/r/adventofcode/search/?q=Day+3+Megathread)
+- [GitHub Solution](https://github.com/roberttk01/Advent-of-Code-2025/tree/main/Day%203)
