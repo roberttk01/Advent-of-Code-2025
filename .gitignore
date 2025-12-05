@@ -1,0 +1,24 @@
+# Personal files
+CLAUDE.md
+**/AoC_*_Solution_Walkthrough.md
+**/AoC_*_Solution_Walkthough.MD
+
+# Downloaded puzzle pages
+**/*Advent of Code*.html
+**/*Advent of Code*_files/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+.env/
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# IDE
+.idea/
