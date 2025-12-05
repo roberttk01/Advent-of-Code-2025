@@ -157,4 +157,4 @@ if __name__ == "__main__":
 ## Links
 - [AoC Day 4](https://adventofcode.com/2025/day/4)
 - [Reddit Megathread](https://www.reddit.com/r/adventofcode/comments/1h6jjwp/2025_day_4_solutions/)
-- [GitHub Repo](https://github.com/roberttk01/Advent-of-Code-2025)
+- [GitHub Solution](https://github.com/roberttk01/Advent-of-Code-2025/tree/main/Day%204)
